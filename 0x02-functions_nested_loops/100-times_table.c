@@ -14,11 +14,11 @@ void print(int var)
  * print_times_table - prints the n times table, starting with 0
  * @n: time table to print
  *
- * Created by - Sanctus-Peter
+ * Created by - Qayyax
  * cc; 5th july, 2022
  */
 
-void print_times_table(int n)
+void times_table(int n)
 {
 	int ii, jj, mul;
 
