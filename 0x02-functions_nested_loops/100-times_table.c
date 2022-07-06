@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include "main.h"
 
 /**
  * print - function to print recursively using _putchar
@@ -14,7 +14,7 @@ void print(int var)
  * print_times_table - prints the n times table, starting with 0
  * @n: time table to print
  *
- * Created by - Qayyax
+ * Created by - Sanctus-Peter
  * cc; 5th july, 2022
  */
 
@@ -54,5 +54,4 @@ void print_times_table(int n)
 		}
 		_putchar('\n');
 	}
-	return (0);
 }
